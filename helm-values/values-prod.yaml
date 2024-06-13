@@ -2,7 +2,7 @@ replicaCount: 3
 image:
   repository: vinhbh/vdt_api
   pullPolicy: IfNotPresent
-  tag: "v2.7"
+  tag: "v2.12"
   
 service:
   type: NodePort
